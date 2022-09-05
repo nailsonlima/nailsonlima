@@ -3,6 +3,7 @@
 
 - 👀 Hoje sou front-end jr.
 - 🎶 Adoro ouvir música!
+<br/>
 <div>
 <div align="center">
   <div align="center">
