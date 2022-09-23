@@ -1,7 +1,7 @@
 👋 Ólá, eu sou @devnailson
 
 
-- 👀 Hoje sou front-end jr.
+- 👀 Sou front-end jr.
 - 🎶 Adoro ouvir música!
 <br/>
 <div>
