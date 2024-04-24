@@ -1,7 +1,7 @@
 👋 Ólá, eu sou @nailsonlima
 
 
-- Simplismente apaixondo por tecnologia.
+- Simplismente apaixonado por tecnologia.
 <br/>
 <div>
 <div align="center">
