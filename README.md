@@ -1,8 +1,7 @@
 👋 Ólá, eu sou @nailsonlima
 
 
-- 👀 Sou front-end jr.
-- 🎶 Adoro ouvir música!
+- Simplismente apaixondo por tecnologia.
 <br/>
 <div>
 <div align="center">
