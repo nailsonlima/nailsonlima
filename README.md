@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Nailson Lima</h1>
 
 <p align="center">
-🚀 Apaixonado por tecnologia e desenvolvimento web.<br/>
-Buscando constante evolução, aplicando e compartilhando conhecimento.
+👨‍💻Apaixonado por tecnologia e desenvolvimento web. <br/>
+<strong >🚀Transformando café em código e desafios em soluções.</strong>
 </p>
 
 ---
