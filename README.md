@@ -1,9 +1,14 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</div>
+
 <h1 align="center">👋 Olá, eu sou Nailson Lima</h1>
 
 <p align="center">
 👨‍💻Apaixonado por tecnologia e desenvolvimento web. <br/>
 <strong >🚀Transformando café em código e desafios em soluções.</strong>
 </p>
+
 
 ---
 
