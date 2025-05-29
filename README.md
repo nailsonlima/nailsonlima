@@ -88,7 +88,7 @@ Buscando constante evolução, aplicando e compartilhando conhecimento.
 
 ## 🌐 Vamos nos conectar!
 
-<div>
+<div  align="center">
   <a href="https://www.linkedin.com/in/nailsonlima/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
