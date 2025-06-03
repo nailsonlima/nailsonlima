@@ -5,23 +5,13 @@
 <h1 align="center">👋 Olá, eu sou Nailson Lima</h1>
 
 <p align="center">
-👨‍💻Apaixonado por tecnologia e desenvolvimento web. <br/>
-<strong >🚀Transformando café em código e desafios em soluções.</strong>
+  👨‍💻Apaixonado por tecnologia e desenvolvimento web. <br/>
+  <strong >🚀Transformando café em código e desafios em soluções.</strong>
 </p>
 
-
 ---
-
-<div align="center">
-  <a href="https://github.com/nailsonlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailsonlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailsonlima&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
-## 🚀 Tecnologias e Ferramentas
+  
+## <div align='center'>🚀 Tecnologias e Ferramentas</div>
 
 <div align="center">
 
@@ -72,26 +62,28 @@
 
 </div>
 
----
 
-## 🌱 Atualmente estou:
+
+## <div align='center'>🌱 Atualmente estou:</div>
 - Aprimorando habilidades em **ReactJS**, **NextJS** e **TypeScript**.
 - Buscando minha primeira vaga na área de desenvolvimento.
 - Sempre em evolução, nunca parado.
 - Aprofundamento em Clean Code, boas práticas e arquitetura front-end.
----
 
 
-## 🔥 GitHub Stats
+
+## <div align='center'>🔥 GitHub Stats</div>
+
+
 
 <div align="center">
   <a href="https://github.com/nailsonlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailsonlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailsonlima&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nailsonlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailsonlima&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
-## 🌐 Vamos nos conectar!
+## <div align='center'>🌐 Vamos nos conectar!</div>
 
 <div  align="center">
   <a href="https://www.linkedin.com/in/nailsonlima/" target="_blank">
@@ -105,4 +97,4 @@
   </a>
 </div>
 
----
+
