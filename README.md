@@ -75,7 +75,7 @@
 ---
 
 ## 🌱 Atualmente estou:
-- Aprimorando habilidades em **ReactJS**, **NextJS** e **NodeJS**.
+- Aprimorando habilidades em **ReactJS**, **NextJS** e **TypeScript**.
 - Buscando minha primeira vaga na área de desenvolvimento.
 - Sempre em evolução, nunca parado.
 - Aprofundamento em Clean Code, boas práticas e arquitetura front-end.
