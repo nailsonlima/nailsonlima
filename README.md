@@ -83,7 +83,7 @@
   </a>
 </div>
 
-## <div align='center'>🌐 Vamos nos conectar!</div>
+## <div align='center'>🌐 Vamos nos conectar! </div>
 
 <div  align="center">
   <a href="https://www.linkedin.com/in/nailsonlima/" target="_blank">
