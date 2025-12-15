@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Olá, eu sou Nailson Lima!</h1>
-<h5>Desenvolvedor Full-Stack, focado em criar soluções com código limpo e performático. Atualmente mergulhado no ecossistema React, Next.js e TypeScript.</h5>
+<h5>Desenvolvedor Full-Stack, focado em criar soluções com código limpo e performático. Atualmente mergulhado no ecossistema Nextjs (ReactJs), NestJs e TypeScript.</h5>
 <p align="center">
   👨‍💻Apaixonado por tecnologia e desenvolvimento web. <br/>
   <strong >🚀Transformando café em código e desafios em soluções.</strong>
