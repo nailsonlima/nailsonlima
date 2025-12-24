@@ -64,12 +64,10 @@
 
 
 
-## <div align='center'>🌱 Atualmente estou:</div>
-- Aprimorando habilidades em **ReactJS**, **NextJS** e **TypeScript**.
-- Buscando minha primeira vaga na área de desenvolvimento.
-- Sempre em evolução, nunca parado.
-- Aprofundamento em Clean Code, boas práticas e arquitetura front-end.
-
+## <div align='center'>🌱 Atualmente estou:</div>- 
+- Desenvolvendo projetos proprios e contruibuindo com outros como freelancer.
+- Aprimorando habilidades em **ReactJS**, **NextJS**, **NestJS** e **TypeScript**.
+- Aprofundamento em Clean Code, boas práticas e arquitetura FullStack.
 
 
 ## <div align='center'>🔥 GitHub Stats</div>
