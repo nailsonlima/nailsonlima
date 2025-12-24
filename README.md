@@ -64,7 +64,7 @@
 
 
 
-## <div align='center'>🌱 Atualmente estou:</div>- 
+## <div align='center'>🌱 Atualmente estou:</div>
 - Desenvolvendo projetos proprios e contruibuindo com outros como freelancer.
 - Aprimorando habilidades em **ReactJS**, **NextJS**, **NestJS** e **TypeScript**.
 - Aprofundamento em Clean Code, boas práticas e arquitetura FullStack.
