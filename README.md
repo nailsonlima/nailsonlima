@@ -70,9 +70,6 @@
 - Aprofundamento em Clean Code, boas práticas e arquitetura FullStack.
 
 
-## <div align='center'>🔥 GitHub Stats</div>
-
-
 
 <div align="center">
   <a href="https://github.com/nailsonlima">
